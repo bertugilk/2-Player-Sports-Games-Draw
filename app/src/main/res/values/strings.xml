@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">2 Player Sports_Games_Draw</string>
+    <string name="Mac_sayisi_sec">MAÇ SAYISI SEÇ</string>
+    <string name="takimlar">TAKIMLAR</string>
+    <string-array name="Mac_Sayisi">
+        <item>1 MAÇ</item>
+        <item>2 MAÇ</item>
+        <item>3 MAÇ</item>
+        <item>4 MAÇ</item>
+        <item>5 MAÇ</item>
+        <item>6 MAÇ</item>
+        <item>7 MAÇ</item>
+        <item>8 MAÇ</item>
+        <item>9 MAÇ</item>
+        <item>10 MAÇ</item>
+    </string-array>
+</resources>
